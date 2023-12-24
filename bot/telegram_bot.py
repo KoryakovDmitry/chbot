@@ -75,7 +75,7 @@ class ChatGPTTelegramBot:
             ),
             BotCommand(
                 command="price_list",
-                description="Оплата Бота",
+                description="Pay bot, Price List",
             ),
             BotCommand(
                 command="stats",
